@@ -1,0 +1,45 @@
+.ChatBox{
+    width: 100%;
+    height: 85%;
+    overflow: auto;
+    background-color: turquoise;
+    text-align: justify;
+
+}
+.ChatBoxUser{
+    width: 100%;
+    height: 400px;
+    overflow: auto;
+    background-color: turquoise;
+    text-align: justify;
+}
+.Span{
+    padding:0.5% 2%;
+    border-radius:25%;
+}
+.Direction{
+    direction: rtl;
+    margin-top: 1rem;
+}
+.Logo{
+    width:25%;
+    height:60px;
+    border-radius:20px ;
+    z-index: 1000;
+}
+.Button{
+    padding: 10px;
+    width: 20%;
+}
+.Input{
+    padding: 10px;
+    width: 80%;
+}
+ 
+@media (max-height:500px){
+    .Logo{
+        width: 20%;
+        height:40px;
+    }
+    
+} 

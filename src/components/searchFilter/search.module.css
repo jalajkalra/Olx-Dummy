@@ -1,0 +1,11 @@
+.Li{
+    list-style: none;
+    padding: 5px;
+    cursor: pointer;
+}
+.List{
+    border: 1px solid black;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 4px 1px rgba(0,0,0,0.18);
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,27 @@
+ .Length{
+     margin: 0;
+ }
+.Social{
+    width:50px;
+}
+.Footer{
+    color:white;
+    margin: 0;
+}
+.Col{
+    padding: 1%;;
+    margin: 0;
+}
+.P{
+    margin:0;
+    padding: 0;
+}
+@media (max-width:500px){
+    .Length{
+        width: 100%;
+        height:300px;
+    }
+    .Social{
+        width:30px;
+    }
+}

@@ -1,0 +1,58 @@
+.Col1{
+    height:100vh;
+    overflow:auto;
+    padding: 0;
+}
+.Col2{
+    height:100vh;
+    background:lightgreen;
+    overflow:auto;
+    padding: 0;
+}
+.Admin{
+    width: 10vw;
+    height: 10vh;
+}
+.AdminChat{
+    background-color: white;
+    color:white;
+    width:100%;
+    height:10vh
+}
+.Li{
+    color: white;
+    background-color: black;
+    list-style: none;
+    width:100%;
+    padding: 1.5rem;
+    cursor: pointer;
+}
+@media (max-width:860px){
+    .Li{
+        padding: 1rem;
+        font-size: small;
+    }
+}
+@media (max-width:720px){
+    .Li{
+        padding: 1rem;
+        font-size: x-small;
+    }
+    .Admin{
+        width: 20vw;
+        height: 10vh;
+    }
+}
+@media (max-width:550px){
+    .Li{
+        padding: 1rem;
+        font-size: xx-small;
+    }
+}
+@media (max-width:480px){
+    .Li{
+        padding: 0.5rem;
+        font-size: 7px;
+    }
+}
+ 
