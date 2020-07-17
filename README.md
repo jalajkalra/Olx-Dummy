@@ -1,3 +1,44 @@
+Website Link : https://olxproject-b64cf.firebaseapp.com/
+
+**********************************************************************************************
+The website consists of 3 user interface one is for the Admin , other is for the registered  user and third is for unregistered user.
+               Roles of Admin:  1) Admin can add other admins
+		                 2)Admin can reply to all the Queries from the user (Real Time Chat System)
+		                 3)Admin can Delete any irrelevant or inappropriate Ads Posted
+		                 4)Admin can also posts Ads
+                 5) Can See what Ads he/she had posted and Edit and Delete them.
+                 6) See the registered Information About Them And Other Users.
+                 7) All the Ads Are visible with necessary information.
+
+Role Of Registered User :  1)User can Post Ads.
+			   2)Ask queries related to the website or products. (Real Time Chat System)
+			   3) Can See what Ads he/she had posted and can Edit and Delete them.
+			   4) See the registered Information About Them.
+   5) All the Ads Are visible with necessary information.
+ 
+Role of Unregistered User:1) All the Ads Are visible with necessary information.
+
+ *************************************************************************************************
+
+For Testing => Admin : Email:- xyz@gmail.com  Password: test1234 
+          Registered User : Email:- abc@gmail.com  Password: test1234
+	
+*************************************************************************************************
+Technologies Used => 
+	Front-End: 1) Reactjs		4) JQuery 	    7)ReactBootstrap
+             2) JavaScript	5) Formik  	  8)Font-Awesome
+		         3) HTML/CSS		6)MaterialUi  9) Redux
+
+	Back-End: 1)FireBase
+
+**************************************************************************************************
+
+Developer Information =>  Name: Jalaj Kalra
+			     Email: jalajkalra4@gmail.com
+			     Contact: 9711325868
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
